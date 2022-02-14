@@ -9,8 +9,7 @@ For more information, visit our [website](https://connectsdk.readthedocs.io/).
 * [API documentation](https://connectsdk.readthedocs.io/en/latest/guide-and/index.html#api-references)
 
 ## Dependencies
-- [Android v7 appcompat library](https://developer.android.com/topic/libraries/support-library/features)
-- Android SDK v22 (the Sampler app targets v22, but works on v10 and greater)
+- [AndroidX Appcompat library](https://developer.android.com/jetpack/androidx/releases/appcompat)
 - [Connect-SDK-Android-Core](https://github.com/ConnectSDK/Connect-SDK-Android-Core)
 - [Connect-SDK-Android-Google-Cast](https://github.com/ConnectSDK/Connect-SDK-Android-Google-Cast) for full version of Connect-SDK
 
